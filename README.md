@@ -1,4 +1,7 @@
-# Livepeer.com API Demo
+## This repository has been deprecated.  Please refer to [Studio Sample App](https://github.com/livepeer/studio-sample-app).
+
+
+# (Deprecated) Livepeer.com API Demo
 
 This is a demo app to showcase how to use Livepeer.com APIs to create a live stream. The app enables the user to create a stream and play it back.
 
